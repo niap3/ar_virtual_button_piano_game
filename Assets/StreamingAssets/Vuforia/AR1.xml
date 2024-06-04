@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="fMark2" size="5.000000 6.247772" />
+    <ImageTarget name="dMark" size="5.000000 6.247772" />
+    <ImageTarget name="eMark" size="5.000000 6.247772" />
+    <ImageTarget name="cMark" size="5.000000 6.247772" />
+    <ImageTarget name="markerColor" size="5.000000 3.534125" />
+    <ImageTarget name="shaMark2" size="5.000000 5.000000" />
+    <ImageTarget name="shaMark1" size="5.000000 5.000000" />
+  </Tracking>
+</QCARConfig>
